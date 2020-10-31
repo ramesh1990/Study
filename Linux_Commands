@@ -20,4 +20,4 @@ ssh
 clear
 ifconfig
 ping
-
+du
