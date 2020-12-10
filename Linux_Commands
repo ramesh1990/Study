@@ -20,4 +20,7 @@ ssh
 clear
 ifconfig
 ping
-du
+df # The df command stands for "disk-free," and shows available and used disk space on the Linux system.
+du # du shows the disk usage of files, folders, etc. in the default kilobyte size
+stat # stat <file/directory> displays the size and other stats of a file/directory or a filesystem
+fdisk -l # fdisk -l shows disk size along with disk partitioning information
